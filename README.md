@@ -6,3 +6,4 @@
 - [Coze 第 1 阶段搭建步骤](docs/coze_build_steps_phase1.md)
 - [Coze 第 2 阶段工作流骨架搭建步骤](docs/coze_build_steps_phase2.md)
 - [Coze 第 3 阶段设计分支搭建步骤](docs/coze_build_steps_phase3.md)
+- [Coze 第 4 阶段分支补全与联调验证](docs/coze_build_steps_phase4.md)
